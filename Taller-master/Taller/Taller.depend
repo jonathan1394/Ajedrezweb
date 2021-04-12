@@ -1,0 +1,151 @@
+# depslib dependency file v1.0
+1591583345 source:/home/jonhy/Descargas/Taller-master/ArbolExpresion.cpp
+	"ArbolExpresion.h"
+
+1591583345 /home/jonhy/Descargas/Taller-master/ArbolExpresion.h
+	<stdio.h>
+	"Termino.h"
+	"ListaString.h"
+
+1591583345 /home/jonhy/Descargas/Taller-master/Termino.h
+	"Parentesis.h"
+	"TipoTermino.h"
+	"Operador.h"
+
+1591583345 /home/jonhy/Descargas/Taller-master/Parentesis.h
+	<stdio.h>
+
+1591583345 /home/jonhy/Descargas/Taller-master/TipoTermino.h
+	<stdio.h>
+
+1591583345 /home/jonhy/Descargas/Taller-master/Operador.h
+	<stdio.h>
+
+1591583345 /home/jonhy/Descargas/Taller-master/ListaString.h
+	"String.h"
+
+1591583345 /home/jonhy/Descargas/Taller-master/String.h
+	<stdio.h>
+	"Boolean.h"
+
+1591583345 /home/jonhy/Descargas/Taller-master/Boolean.h
+	<stdio.h>
+
+1591583345 source:/home/jonhy/Descargas/Taller-master/Boolean.cpp
+	"Boolean.h"
+
+1591583345 source:/home/jonhy/Descargas/Taller-master/Expresion.cpp
+	"Expresion.h"
+
+1591583345 /home/jonhy/Descargas/Taller-master/Expresion.h
+	<stdio.h>
+	"ArbolExpresion.h"
+
+1591583345 source:/home/jonhy/Descargas/Taller-master/ListaExpresiones.cpp
+	"ListaExpresiones.h"
+
+1591583345 /home/jonhy/Descargas/Taller-master/ListaExpresiones.h
+	"Expresion.h"
+
+1591583345 source:/home/jonhy/Descargas/Taller-master/ListaString.cpp
+	"ListaString.h"
+	"String.h"
+
+1591583345 source:/home/jonhy/Descargas/Taller-master/main.cpp
+	<stdio.h>
+	"ListaString.h"
+	"ListaExpresiones.h"
+
+1591583345 source:/home/jonhy/Descargas/Taller-master/Operador.cpp
+	"Operador.h"
+
+1591583345 source:/home/jonhy/Descargas/Taller-master/Parentesis.cpp
+	"Parentesis.h"
+
+1591583345 source:/home/jonhy/Descargas/Taller-master/String.cpp
+	"String.h"
+
+1591583345 source:/home/jonhy/Descargas/Taller-master/Termino.cpp
+	"Termino.h"
+	"TipoTermino.h"
+	"Parentesis.h"
+	"Operador.h"
+
+1591583345 source:/home/jonhy/Descargas/Taller-master/TipoTermino.cpp
+	"TipoTermino.h"
+
+1591583345 source:/home/jonhy/Documentos/Proyectos-programas/Taller-master/ArbolExpresion.cpp
+	"ArbolExpresion.h"
+
+1591583345 /home/jonhy/Documentos/Proyectos-programas/Taller-master/ArbolExpresion.h
+	<stdio.h>
+	"Termino.h"
+	"ListaString.h"
+
+1591583345 /home/jonhy/Documentos/Proyectos-programas/Taller-master/Termino.h
+	"Parentesis.h"
+	"TipoTermino.h"
+	"Operador.h"
+
+1591583345 /home/jonhy/Documentos/Proyectos-programas/Taller-master/Parentesis.h
+	<stdio.h>
+
+1591583345 /home/jonhy/Documentos/Proyectos-programas/Taller-master/TipoTermino.h
+	<stdio.h>
+
+1591583345 /home/jonhy/Documentos/Proyectos-programas/Taller-master/Operador.h
+	<stdio.h>
+
+1591583345 /home/jonhy/Documentos/Proyectos-programas/Taller-master/ListaString.h
+	"String.h"
+
+1591583345 /home/jonhy/Documentos/Proyectos-programas/Taller-master/String.h
+	<stdio.h>
+	"Boolean.h"
+
+1591583345 /home/jonhy/Documentos/Proyectos-programas/Taller-master/Boolean.h
+	<stdio.h>
+
+1591583345 source:/home/jonhy/Documentos/Proyectos-programas/Taller-master/Boolean.cpp
+	"Boolean.h"
+
+1591583345 source:/home/jonhy/Documentos/Proyectos-programas/Taller-master/Expresion.cpp
+	"Expresion.h"
+
+1591583345 /home/jonhy/Documentos/Proyectos-programas/Taller-master/Expresion.h
+	<stdio.h>
+	"ArbolExpresion.h"
+
+1591583345 source:/home/jonhy/Documentos/Proyectos-programas/Taller-master/ListaExpresiones.cpp
+	"ListaExpresiones.h"
+
+1591583345 /home/jonhy/Documentos/Proyectos-programas/Taller-master/ListaExpresiones.h
+	"Expresion.h"
+
+1591583345 source:/home/jonhy/Documentos/Proyectos-programas/Taller-master/ListaString.cpp
+	"ListaString.h"
+	"String.h"
+
+1591583345 source:/home/jonhy/Documentos/Proyectos-programas/Taller-master/main.cpp
+	<stdio.h>
+	"ListaString.h"
+	"ListaExpresiones.h"
+
+1591583345 source:/home/jonhy/Documentos/Proyectos-programas/Taller-master/Operador.cpp
+	"Operador.h"
+
+1591583345 source:/home/jonhy/Documentos/Proyectos-programas/Taller-master/Parentesis.cpp
+	"Parentesis.h"
+
+1591583345 source:/home/jonhy/Documentos/Proyectos-programas/Taller-master/String.cpp
+	"String.h"
+
+1591583345 source:/home/jonhy/Documentos/Proyectos-programas/Taller-master/Termino.cpp
+	"Termino.h"
+	"TipoTermino.h"
+	"Parentesis.h"
+	"Operador.h"
+
+1591583345 source:/home/jonhy/Documentos/Proyectos-programas/Taller-master/TipoTermino.cpp
+	"TipoTermino.h"
+

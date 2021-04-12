@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Taller" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Taller" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Taller" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="../ArbolExpresion.cpp" />
+		<Unit filename="../ArbolExpresion.h" />
+		<Unit filename="../Boolean.cpp" />
+		<Unit filename="../Boolean.h" />
+		<Unit filename="../Expresion.cpp" />
+		<Unit filename="../Expresion.h" />
+		<Unit filename="../ListaExpresiones.cpp" />
+		<Unit filename="../ListaExpresiones.h" />
+		<Unit filename="../ListaString.cpp" />
+		<Unit filename="../ListaString.h" />
+		<Unit filename="../Operador.cpp" />
+		<Unit filename="../Operador.h" />
+		<Unit filename="../Parentesis.cpp" />
+		<Unit filename="../Parentesis.h" />
+		<Unit filename="../String.cpp" />
+		<Unit filename="../String.h" />
+		<Unit filename="../Termino.cpp" />
+		<Unit filename="../Termino.h" />
+		<Unit filename="../TipoTermino.cpp" />
+		<Unit filename="../TipoTermino.h" />
+		<Unit filename="../main.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
