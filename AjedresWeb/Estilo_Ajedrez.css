@@ -1,0 +1,27 @@
+table {
+    border-collapse: collapse;
+    border: red;
+    color: black;
+    border-style: solid;
+}
+tr{
+    border-style: solid;
+    border-color: rgb(218, 184, 32);
+}
+td{
+    border-color:rgb(218, 184, 32);
+    border-style: solid;
+    height: 50px;
+    width: 50px     ;
+}
+
+body {
+    color: blanchedalmond;
+}
+ #tablero{
+    margin-left: 30%;
+    margin-top: 15%;
+ }
+ .negro {
+     background-color: black;
+ }
