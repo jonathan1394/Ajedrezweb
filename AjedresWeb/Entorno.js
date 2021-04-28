@@ -1,3 +1,7 @@
+var PeonesNegros= new Array;
+var PeonesBlancos= new Array;
+
+
 function CrearTablero(){
     $("#tablero").append("<table id="+'TableroT'+"></table>");
     for(var i=1;i<=8;i++){
@@ -26,7 +30,9 @@ function VasiarTablero(){
 function CreaJuego(){
 for(i=1;i<=8;i++){
     $("#2"+i).append("<h5 class='peonblanco' id=peon2"+i+">Peon</h5>");
+    PeonesBlancos[i-1]='2'+(i-1);
     $("#7"+i).append("<h5 class='peonnegro' id=peon7"+i+">Peon</h5>");
+    PeonesNegros[i-1]='7'+ (i-1);
 };
 
 
